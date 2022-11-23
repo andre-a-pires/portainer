@@ -16,6 +16,7 @@ Portainer consists of a single container that can run on any cluster. It can be 
 
 Portainer CE is updated regularly. We aim to do an update release every couple of months.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c66d356080384ccb931404083e7ac4d6)](https://app.codacy.com/gh/andre-a-pires/portainer?utm_source=github.com&utm_medium=referral&utm_content=andre-a-pires/portainer&utm_campaign=Badge_Grade_Settings)
 [![latest version](https://img.shields.io/github/v/release/portainer/portainer?color=%2344cc11&label=Latest%20release&style=for-the-badge)](https://github.com/portainer/portainer/releases/latest)
 
 ## Getting started
